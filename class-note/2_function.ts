@@ -16,7 +16,7 @@ function sum2(a: number, b: number): number {
   return a + b;
 }
 
-sum(10, 20);
+sum2(10, 20);
 
 // 파라미터 제한 
 // sum(10, 20, 30, 40);
